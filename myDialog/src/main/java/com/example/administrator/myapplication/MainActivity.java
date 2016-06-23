@@ -20,7 +20,10 @@ import utils.DiaogAnimChoose;
 public class MainActivity extends AppCompatActivity {
 
 
-    public  String[] groups = {"Default Inner Dialog", "Custom Dialog", "Default Inner Anim", "Custom Anim"};
+    public  String[] groups = {"Default Inner Dialog",
+            "Custom Dialog",
+            "Default Inner Anim",
+            "Custom Anim"};
     public  String[][] childs = {
             /**Default Inner Dialog*/
             {
